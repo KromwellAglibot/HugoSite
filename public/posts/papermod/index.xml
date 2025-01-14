@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PaperMod on My Blog</title>
+    <link>//localhost:1313/posts/papermod/</link>
+    <description>Recent content in PaperMod on My Blog</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/papermod/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>8 Wonders of World</title>
+      <link>//localhost:1313/posts/papermod/papermod-installation/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/papermod/papermod-installation/</guid>
+      <description>The Eight Wonders of the World highlight humanity&amp;rsquo;s architectural and cultural achievements across history. They include the ancient wonders like the Great Pyramid of Giza, alongside modern or natural marvels such as the Taj Mahal or the Great Wall of China. These wonders showcase extraordinary creativity, engineering, and historical significance, inspiring awe and admiration worldwide.</description>
+    </item>
+    <item>
+      <title>Great Wall of China </title>
+      <link>//localhost:1313/posts/papermod/papermod-features/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/papermod/papermod-features/</guid>
+      <description>The Great Wall of China is an ancient series of fortifications that stretches over 13,000 miles across northern China. Built over several centuries, beginning in the 7th century BC, it was designed to protect Chinese states from invasions by nomadic tribes. The wall consists of walls, watchtowers, and other military structures. It is not a single continuous wall, but a series of walls built by different dynasties. Today, the Great Wall is a symbol of China&amp;rsquo;s strength, perseverance, and historical significance, attracting millions of visitors from around the world.</description>
+    </item>
+  </channel>
+</rss>

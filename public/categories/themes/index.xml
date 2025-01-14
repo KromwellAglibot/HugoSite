@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Themes on My Blog</title>
+    <link>//localhost:1313/categories/themes/</link>
+    <description>Recent content in Themes on My Blog</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/themes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Petra</title>
+      <link>//localhost:1313/posts/markdown-syntax/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/markdown-syntax/</guid>
+      <description>&lt;img class=&#34;in-text&#34; height=&#34;300&#34; src=&#34;https://lp-cms-production.imgix.net/2024-06/GettyRF972766398.jpg?w=1440&amp;amp;h=810&amp;amp;fit=crop&amp;amp;auto=format&amp;amp;q=75&#34; alt=&#34;&#34;&gt;
+
+&lt;h2 id=&#34;a-glimpse-into-petras-history&#34;&gt;A Glimpse into Petra’s History&lt;/h2&gt;
+&lt;p&gt;Petra’s history dates back to the 6th century BCE when the Nabataeans, an ancient Arab people, established the city as a strategic center for trade. Due to its location along major caravan routes, Petra became a prosperous trading city, linking the East and West. The Nabataeans were masterful engineers and architects, building an advanced system of water channels, reservoirs, and roads.&lt;/p&gt;
+&lt;p&gt;At its peak, Petra was home to an estimated 20,000 people. Its inhabitants crafted beautiful temples, tombs, and monuments, many of which remain carved directly into the rock. As the centuries passed, Petra gradually faded into obscurity, remaining hidden from the outside world until its rediscovery by Swiss explorer Johann Ludwig Burckhardt in 1812.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pyramid of Giza</title>
+      <link>//localhost:1313/posts/code_syntax/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/code_syntax/</guid>
+      <description>The Pyramid of Giza is the last remaining of the Seven Wonders of the Ancient World. Built around 4,500 years ago during the reign of Pharaoh Khufu, it is an incredible feat of ancient engineering, standing at 481 feet tall. Constructed from millions of limestone blocks, the pyramid was originally covered in smooth white casing stones that reflected the sun’s light.</description>
+    </item>
+  </channel>
+</rss>

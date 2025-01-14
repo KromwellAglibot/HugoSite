@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on My Blog</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on My Blog</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Christ the Redeemer</title>
+      <link>//localhost:1313/posts/markdown-syntax.fa/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/markdown-syntax.fa/</guid>
+      <description>&lt;img class=&#34;in-text&#34; height=&#34;300&#34; src=&#34;https://media.cnn.com/api/v1/images/stellar/prod/01-gettyimages-1243915954.jpg?c=16x9&amp;amp;q=h_833,w_1480,c_fill&#34; alt=&#34;&#34;&gt;
+
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Standing proudly atop the towering Mount Corcovado, Christ the Redeemer is one of the most iconic landmarks in the world. This colossal statue of Jesus Christ overlooks the vibrant city of Rio de Janeiro, Brazil, symbolizing peace, love, and hope for millions of people across the globe. With its outstretched arms embracing the city below, it has become a symbol of both Christianity and the Brazilian spirit, attracting millions of visitors each year.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Huayna Picchu</title>
+      <link>//localhost:1313/posts/rich-content/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/rich-content/</guid>
+      <description>&lt;img class=&#34;in-text&#34; height=&#34;300&#34; src=&#34;https://trexperienceperu.com/sites/default/files/huayna-picchu-mountain_0.webp&#34; alt=&#34;&#34;&gt;
+
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Nestled beside the ancient Incan citadel of Machu Picchu, Huayna Picchu is one of the most stunning and challenging hikes in the world. Its towering peak, which means &amp;ldquo;Young Peak&amp;rdquo; in Quechua, offers some of the most breathtaking views of the surrounding Andes mountains and the historic Machu Picchu site below. If you’re looking for adventure and a unique perspective on this UNESCO World Heritage Site, Huayna Picchu is an unforgettable experience.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lighthouse of Alexandria</title>
+      <link>//localhost:1313/posts/emoji-support/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/emoji-support/</guid>
+      <description>&lt;img class=&#34;in-text&#34; height=&#34;300&#34; src=&#34;https://images.memphistours.com/large/786117789_Lighthouse%20of%20Alexandria.jpg&#34; alt=&#34;&#34;&gt;
+
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;The Lighthouse of Alexandria, also known as the Pharos of Alexandria, was one of the Seven Wonders of the Ancient World and one of the tallest man-made structures of its time. Located on the small island of Pharos, it was built to guide sailors safely into the bustling port of Alexandria, Egypt, one of the most important cities in the ancient Mediterranean world. The lighthouse’s impressive design and towering height made it a beacon of innovation, engineering, and maritime safety.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Petra</title>
+      <link>//localhost:1313/posts/markdown-syntax/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/markdown-syntax/</guid>
+      <description>&lt;img class=&#34;in-text&#34; height=&#34;300&#34; src=&#34;https://lp-cms-production.imgix.net/2024-06/GettyRF972766398.jpg?w=1440&amp;amp;h=810&amp;amp;fit=crop&amp;amp;auto=format&amp;amp;q=75&#34; alt=&#34;&#34;&gt;
+
+&lt;h2 id=&#34;a-glimpse-into-petras-history&#34;&gt;A Glimpse into Petra’s History&lt;/h2&gt;
+&lt;p&gt;Petra’s history dates back to the 6th century BCE when the Nabataeans, an ancient Arab people, established the city as a strategic center for trade. Due to its location along major caravan routes, Petra became a prosperous trading city, linking the East and West. The Nabataeans were masterful engineers and architects, building an advanced system of water channels, reservoirs, and roads.&lt;/p&gt;
+&lt;p&gt;At its peak, Petra was home to an estimated 20,000 people. Its inhabitants crafted beautiful temples, tombs, and monuments, many of which remain carved directly into the rock. As the centuries passed, Petra gradually faded into obscurity, remaining hidden from the outside world until its rediscovery by Swiss explorer Johann Ludwig Burckhardt in 1812.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pyramid of Giza</title>
+      <link>//localhost:1313/posts/code_syntax/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/code_syntax/</guid>
+      <description>The Pyramid of Giza is the last remaining of the Seven Wonders of the Ancient World. Built around 4,500 years ago during the reign of Pharaoh Khufu, it is an incredible feat of ancient engineering, standing at 481 feet tall. Constructed from millions of limestone blocks, the pyramid was originally covered in smooth white casing stones that reflected the sun’s light.</description>
+    </item>
+    <item>
+      <title>Taj Mahal</title>
+      <link>//localhost:1313/posts/math-typesetting/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/math-typesetting/</guid>
+      <description>&lt;img class=&#34;in-text&#34; height=&#34;300&#34; src=&#34;https://i.natgeofe.com/n/8eba070d-14e5-4d07-8bab-9db774029063/93080_2x1.jpg&#34; alt=&#34;&#34;&gt;
+
+&lt;h2 id=&#34;introduction-the-jewel-of-india&#34;&gt;Introduction: The Jewel of India&lt;/h2&gt;
+&lt;p&gt;The Taj Mahal, one of the most iconic structures in the world, is a symbol of eternal love and architectural grandeur. Located in Agra, India, this breathtaking white marble mausoleum was built by Emperor Shah Jahan in memory of his beloved wife, Mumtaz Mahal. Completed in 1653, it stands as a masterpiece of Mughal architecture, blending elements from Persian, Ottoman Turkish, and Indian styles. Recognized as a UNESCO World Heritage Site, the Taj Mahal continues to captivate millions of visitors every year, with its serene beauty, intricate craftsmanship, and poignant history.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Colosseum</title>
+      <link>//localhost:1313/posts/markdown-syntax.fr/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/markdown-syntax.fr/</guid>
+      <description>&lt;img class=&#34;in-text&#34; height=&#34;300&#34; src=&#34;https://cdn-imgix.headout.com/microbrands-content-image/image/df275f9b36348cb3af9c76c20036cf6e-Colosseum%20History.jpg&#34; alt=&#34;&#34;&gt;
+
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;The Colosseum, also known as the Flavian Amphitheatre, is one of the most iconic landmarks in the world. Located in the center of Rome, Italy, this grand structure has stood for nearly 2,000 years as a testament to the engineering brilliance of Ancient Rome. Originally built to host gladiatorial contests and public spectacles, the Colosseum continues to captivate millions of visitors every year, offering a glimpse into the grandeur of the Roman Empire.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
